@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditchoudhary
 - 👀 I’m interested in development of highly scalable Applications and Software
-- 🌱 I’m currently learning AWS, Microservice
+- 🌱 I’m currently learning AWS, Microservices
 - 💞️ I’m looking to collaborate on open source contribution
 - 📫 Reach me at adit.mrt@gmail.com
 
